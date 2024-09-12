@@ -1,0 +1,54 @@
+*{ 
+    padding: 0%;
+    margin: 0%;
+}
+.main{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+}
+.nav-link active{
+    color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    padding:50px;
+}
+.
+.img1{
+    height: 50%;
+    width: 50%;
+}
+.box1{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+}
+.card > .card-text{
+    text-align: center;
+    background-color: B9FF66;important!
+
+}
+.cards{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+}
+.cards > .card{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
